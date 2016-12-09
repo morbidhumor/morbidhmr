@@ -1,0 +1,21 @@
+html{
+    background-color: #bc8;
+}
+
+ul {
+    list-style: none
+}
+
+li {
+    display: inline-block;
+    width: 100px;
+}
+
+li a {font-family: Helvetica;
+     color: #FFA50;
+     text-decoration: none;
+}
+
+#half-gap{
+    margin-bottom:6%;
+}
